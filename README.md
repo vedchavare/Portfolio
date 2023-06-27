@@ -20,11 +20,11 @@ Shows various certifications earned throughout me experience
 Allows visitors to reach out to me via a contact form or through my social media profiles.
 ***
 ## Deployment
-The website is deployed and can be accessed at your-portfolio-website-url.com.
+The website is deployed and can be accessed at https://vedchavare.github.io/Portfolio/
 
 ***
 ## Contact Information
-* Website: your-portfolio-website-url.com
+* Website: https://vedchavare.github.io/Portfolio/
 * LinkedIn: www.linkedin.com/in/vedantchavare
 * Email: vedchavare@gmail.com
 Feel free to reach out to me for any inquiries or collaboration opportunities.
